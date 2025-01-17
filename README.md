@@ -1,6 +1,5 @@
 # movie-recommender-system
 This is a movie recommender system built using Python and Streamlit. The system recommends movies to users based on their preferences using a dataset of movies and their similarities.
-________________________________________________________________________________________________________________________________________________________________
 
 # Table of Contents
 
@@ -31,7 +30,6 @@ pickle: Serializing and deserializing data (for saving model data).
 Streamlit: For creating the interactive web application.
 Git Large File Storage (LFS): For storing large files like the model and similarity matrices.
 
-________________________________________________________________________________________________________________________________________________________________
 
 # Installation
 Follow these steps to set up the project on your local machine:
@@ -52,7 +50,6 @@ pip install -r requirements.txt
 If the requirements.txt file is not present, you can manually install the necessary libraries:
 pip install pandas numpy streamlit pickle-mixin
 
-________________________________________________________________________________________________________________________________________________________________
 
 # How to Run
 Start Streamlit App:
@@ -62,14 +59,12 @@ streamlit run app.py
 Access the Application:
 After running the above command, Streamlit will provide a local server URL (usually (http://localhost:8501)) where you can view and interact with the Movie Recommender System.
 
-________________________________________________________________________________________________________________________________________________________________
 
 # Usage
 Select a Movie: From the dropdown, choose a movie you would like recommendations for.
 Get Recommendations: Click the "Recommend" button to display a list of similar movies.
 View Results: The recommended movies will be displayed below the button.
 
-________________________________________________________________________________________________________________________________________________________________
 
 # Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
@@ -78,7 +73,6 @@ Create a new branch for your feature or bugfix.
 Commit your changes and push them to your fork.
 Open a pull request to merge your changes into the main repository.
 
-________________________________________________________________________________________________________________________________________________________________
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
