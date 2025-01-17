@@ -2,24 +2,40 @@
 This is a movie recommender system built using Python and Streamlit. The system recommends movies to users based on their preferences using a dataset of movies and their similarities.
 
 Table of Contents
+
 Project Overview
+
 Technologies Used
+
 Installation
+
 How to Run
+
 Usage
+
 Contributing
+
 License
+
 Project Overview
+
 The Movie Recommender System is designed to recommend movies to users based on a selected movie. Using pandas, numpy, and pickle for data handling and machine learning, the system finds the most similar movies based on a given movie title. It uses a cosine similarity model to calculate similarity scores between movies.
 
 This project is built as a web app using Streamlit, allowing users to interact with the recommender system by selecting a movie and getting movie recommendations in return.
 
+
 Technologies Used
+
 Python: Programming language used for building the recommender system.
+
 pandas: Data manipulation and analysis.
+
 numpy: Mathematical operations for data manipulation.
+
 pickle: Serializing and deserializing data (for saving model data).
+
 Streamlit: For creating the interactive web application.
+
 Git Large File Storage (LFS): For storing large files like the model and similarity matrices.
 Installation
 Follow these steps to set up the project on your local machine:
