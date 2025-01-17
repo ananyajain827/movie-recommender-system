@@ -1,7 +1,7 @@
-# movie-recommender-system
+# movie-recommender-system💻
 This is a movie recommender system built using Python and Streamlit. The system recommends movies to users based on their preferences using a dataset of movies and their similarities.
 
-# Table of Contents
+# Table of Contents📜
 
 Project Overview
 
@@ -18,11 +18,11 @@ Contributing
 License
 
 
-# Project Overview
+# Project Overview📜
 The Movie Recommender System is designed to recommend movies to users based on a selected movie. Using pandas, numpy, and pickle for data handling and machine learning, the system finds the most similar movies based on a given movie title. It uses a cosine similarity model to calculate similarity scores between movies.
 This project is built as a web app using Streamlit, allowing users to interact with the recommender system by selecting a movie and getting movie recommendations in return.
 
-# Technologies Used
+# Technologies Used🔧
 Python: Programming language used for building the recommender system.
 pandas: Data manipulation and analysis.
 numpy: Mathematical operations for data manipulation.
@@ -31,12 +31,12 @@ Streamlit: For creating the interactive web application.
 Git Large File Storage (LFS): For storing large files like the model and similarity matrices.
 
 
-# Installation
+# Installation🛠️
 Follow these steps to set up the project on your local machine:
 1. Clone the Repository
 git clone https://github.com/ananyajain827/movie-recommender-system.git
 
-2. Install Dependencies  
+2. Install Dependencies 📦
 Create a virtual environment :
 python -m venv venv
 Activate the virtual environment:
@@ -51,7 +51,7 @@ If the requirements.txt file is not present, you can manually install the necess
 pip install pandas numpy streamlit pickle-mixin
 
 
-# How to Run
+# How to Run🏃‍♀️
 Start Streamlit App:
 Once you've installed all dependencies and are in your virtual environment, you can start the Streamlit web application:
 streamlit run app.py
@@ -60,13 +60,13 @@ Access the Application:
 After running the above command, Streamlit will provide a local server URL (usually (http://localhost:8501)) where you can view and interact with the Movie Recommender System.
 
 
-# Usage
+# Usage👨‍💻/👩‍💻
 Select a Movie: From the dropdown, choose a movie you would like recommendations for.
 Get Recommendations: Click the "Recommend" button to display a list of similar movies.
 View Results: The recommended movies will be displayed below the button.
 
 
-# Contributing
+# Contributing🤝
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 Fork the repository.
 Create a new branch for your feature or bugfix.
