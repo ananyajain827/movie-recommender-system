@@ -26,7 +26,7 @@ Follow these steps to set up the project on your local machine:
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/movie-recommender-system.git
+git clone https://github.com/ananyajain827/movie-recommender-system.git
 
 2. Install Dependencies
 Create a virtual environment :
