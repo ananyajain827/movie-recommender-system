@@ -1,5 +1,8 @@
 # movie-recommender-system💻
 This is a movie recommender system built using Python and Streamlit. The system recommends movies to users based on their preferences using a dataset of movies and their similarities.
+![Screenshot 2025-01-17 061843](https://github.com/user-attachments/assets/08eb5660-1b9d-4f64-8670-fffa990a9d8c)
+![Screenshot 2025-01-17 061857](https://github.com/user-attachments/assets/388b3f32-9952-432a-bd59-6662ed3d1a9e)
+![image](https://github.com/user-attachments/assetsyy/7f228197-82da-4c77-b07b-51a3a5d72283)
 
 # Table of Contents📜
 
@@ -84,8 +87,3 @@ ________________________________________________________________________________
 
 
 
-![Screenshot 2025-01-17 061843](https://github.com/user-attachments/assets/08eb5660-1b9d-4f64-8670-fffa990a9d8c)
-
-![Screenshot 2025-01-17 061857](https://github.com/user-attachments/assets/388b3f32-9952-432a-bd59-6662ed3d1a9e)
-
-![image](https://github.com/user-attachments/assets/7f228197-82da-4c77-b07b-51a3a5d72283)
